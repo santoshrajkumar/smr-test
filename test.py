@@ -29,3 +29,8 @@ def loginUser(request):
     else:
       return render(request, 'chat/login.html')
   return render(request, 'chat/login.html')
+
+  fdbkjvfdbgijukhn3fuckdfkjg bnrefdkloj;gnmderfg
+  \errebn glkredfmgerfg
+  'er g kle rtndglkrmetg
+  reg llretjgbn lrekk'
